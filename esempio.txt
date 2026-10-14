@@ -1,3 +1,1 @@
 afoiagàglSDGalàgdagjhlagdladgdagadgsdghoipeaaipu0iuoiuoithuifryt
-  git config --global user.email "luca.intilla@studenti.isissgobetti.it"
-  git config --global user.name "lucaintilla"
